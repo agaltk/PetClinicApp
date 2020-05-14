@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.spring</groupId>
 	<artifactId>petclinicapp</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>pom</packaging>
 	<name>petclinicapp</name>
 	<description>Pet Clinic course</description>
@@ -45,6 +45,6 @@
 
 	<scm>
 		<developerConnection>scm:git:git@github.com:agaltk/PetClinicApp.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>petclinicapp-0.0.2</tag>
   </scm>
 </project>
